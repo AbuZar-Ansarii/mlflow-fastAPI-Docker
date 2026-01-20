@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/pandas/MLOPS/MLOPS-Mlflow/mlruns/301952512975343997/75d0e0f88ae543089a8718c70ce2ec7b/artifacts
+end_time: 1768699132434
+entry_point_name: ''
+experiment_id: '301952512975343997'
+lifecycle_stage: active
+run_id: 75d0e0f88ae543089a8718c70ce2ec7b
+run_name: puzzled-bass-889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768699123801
+status: 3
+tags: []
+user_id: abu

@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/pandas/MLOPS/MLOPS-Mlflow/mlruns/301952512975343997/9d7e453792c74259bca0aac27f17dde5/artifacts
+end_time: 1768732430056
+entry_point_name: ''
+experiment_id: '301952512975343997'
+lifecycle_stage: active
+run_id: 9d7e453792c74259bca0aac27f17dde5
+run_name: thundering-snake-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768732412593
+status: 3
+tags: []
+user_id: abu

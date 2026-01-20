@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/pandas/MLOPS/MLOPS-Mlflow/mlruns/862575986639047003/ec5189439dbe41f59fe12895eb8f56c5/artifacts
+end_time: 1768698087362
+entry_point_name: ''
+experiment_id: '862575986639047003'
+lifecycle_stage: active
+run_id: ec5189439dbe41f59fe12895eb8f56c5
+run_name: classy-moth-550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768698078448
+status: 4
+tags: []
+user_id: abu

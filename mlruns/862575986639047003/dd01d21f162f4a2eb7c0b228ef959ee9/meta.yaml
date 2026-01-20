@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/pandas/MLOPS/MLOPS-Mlflow/mlruns/862575986639047003/dd01d21f162f4a2eb7c0b228ef959ee9/artifacts
+end_time: 1768697964970
+entry_point_name: ''
+experiment_id: '862575986639047003'
+lifecycle_stage: active
+run_id: dd01d21f162f4a2eb7c0b228ef959ee9
+run_name: popular-whale-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768697956295
+status: 4
+tags: []
+user_id: abu

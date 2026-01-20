@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/pandas/MLOPS/MLOPS-Mlflow/mlruns/862575986639047003/a3cd3f5c4212483eb2f624ad0de1c101/artifacts
+end_time: 1768697408946
+entry_point_name: ''
+experiment_id: '862575986639047003'
+lifecycle_stage: active
+run_id: a3cd3f5c4212483eb2f624ad0de1c101
+run_name: capricious-gull-143
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768697393178
+status: 3
+tags: []
+user_id: abu

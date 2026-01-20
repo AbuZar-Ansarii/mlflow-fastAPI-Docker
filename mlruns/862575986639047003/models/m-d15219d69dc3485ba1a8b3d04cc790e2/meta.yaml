@@ -1,0 +1,10 @@
+artifact_location: file:///E:/pandas/MLOPS/MLOPS-Mlflow/mlruns/862575986639047003/models/m-d15219d69dc3485ba1a8b3d04cc790e2/artifacts
+creation_timestamp: 1768697956813
+experiment_id: '862575986639047003'
+last_updated_timestamp: 1768697964824
+model_id: m-d15219d69dc3485ba1a8b3d04cc790e2
+model_type: null
+name: iris_RF_model
+source_run_id: dd01d21f162f4a2eb7c0b228ef959ee9
+status: 2
+status_message: null
